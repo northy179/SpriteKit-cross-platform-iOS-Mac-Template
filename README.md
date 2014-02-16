@@ -1,7 +1,15 @@
 SpriteKit-cross-platform-iOS-Mac-Template
 =========================================
 
-A template for creating cross platform sprite kit games between iOS and Mac OS X.
+A template for creating cross platform SpriteKit games between iOS and Mac OS X.
+
+It is set up with two targets, one for iOS and one for Mac OS X, you should be able to dump your SpriteKit game scenes straight in to the 'Shared App' folder and get started pretty quickly.
+
+It also includes a SKScene subclass called SKMScene which helps in handling screen touches or screen clicks. There is an example of it's usage included.
+
+## Credits
+
+This Sample project has been provided by Neil North of northysoftware.com.
 
 ## License
 
