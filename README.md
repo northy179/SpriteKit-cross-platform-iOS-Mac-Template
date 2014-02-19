@@ -9,7 +9,7 @@ It also includes a SKScene subclass called SKMScene which helps in handling scre
 
 ## Credits
 
-This Sample project has been provided by Neil North of northysoftware.com.
+This Sample project has been provided by Neil North of northysoftware.com and you can also follow me on Twitter: @northy179.
 
 ## License
 
